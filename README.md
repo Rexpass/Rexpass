@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m Robel @Rexpass
+- 👋 Hi, I’m Robel Effa
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... Computer Science and Software Engineering
-- 📫 How to reach me ... robeleffa123@gmail.com
 
 
