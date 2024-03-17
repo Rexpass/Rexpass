@@ -61,7 +61,7 @@
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,ionic,react native" />
+    <img src="https://skillicons.dev/icons?i=flutter,react native" />
   </a>
 </p>
 
@@ -96,23 +96,10 @@
 
 ## 🔥 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Rexpass">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexpass&theme=radical&border=7F3FBF&background=0D1117" alt="Robel's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rexpass">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rexpass&theme=radical" alt="Robel's GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
-    <a href="https://github.com/Rexpass"><img alt="Robel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rexpass&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Rexpass"><img alt="Robel's's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rexpass&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Robel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rexpass&custom_title=Robel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
