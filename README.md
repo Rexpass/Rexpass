@@ -15,7 +15,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a mobile application developer 」
+    「 I am a software developer 」
     <br>
     <br>
   </samp>
@@ -30,7 +30,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: robeleffa123@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: robeleffa@gmail.com<br/><br/>
 </p>
 <br/>
 <br/>
@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
   </a>
 </p>
 
