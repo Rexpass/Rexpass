@@ -86,20 +86,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,androidstudio" />
   </a>
 </p>
 
 <br/>
-
-
-
-## 🔥 My GitHub Stats
-
-<a> 
-  <a href="https://github.com/Rexpass"><img alt="Robel's's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rexpass&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
 
