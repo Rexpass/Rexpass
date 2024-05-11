@@ -1,94 +1,46 @@
+ <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
 
-<a href="https://komarev.com/ghpvc/?username=natnael772">
-  <img align="right" src="https://komarev.com/ghpvc/?username=natnael772&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+###
 
+<p align="left">My name is Robel, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Computer Science 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio! 📱👀</p>
 
+###
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://robel.vercel.app/">Robel</a></b>
-        </samp>
-</h3>
+<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
 
+###
 
-<p align="center"> 
-  <samp>
-    「 I am a software developer 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<!-- About Section -->
-<!--
- # About me
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
  
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+</div>
+
+###
+
+<h2 align="left" style="color:white;" >🌐Contact</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.upwork.com/freelancers/~01ef8ad58964a7cd1f?s=1044578476142100545" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/upwork/default.svg" width="52" height="40" alt="upwork logo"  />
+  </a>
+ 
+</div>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: robeleffa@gmail.com<br/><br/>
-</p>
-<br/>
-<br/>
-<br/>
--->
-
-
-
-## 🛠️ Languages and Tools
-
-
-- Frontend
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-  </a>
-</p>
-
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
-
-- Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react native" />
-  </a>
-</p>
-
-- Database
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-
-- Cloud Servers
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-  </a>
-</p>
-
-
-
-- Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,androidstudio" />
-  </a>
-</p>
-
-<br/>
-
+ 
