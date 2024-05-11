@@ -19,16 +19,6 @@
 
 ###
 
-<h2 align="left" style="color:white;" >🌐Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.upwork.com/freelancers/~01ef8ad58964a7cd1f?s=1044578476142100545" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/upwork/default.svg" width="52" height="40" alt="upwork logo"  />
-  </a>
- 
-</div>
 
 
 
