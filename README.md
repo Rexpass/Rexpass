@@ -6,11 +6,11 @@
 
 💡 What I Do: 
 
-📱Mobile Development: Crafting sleek and high-performing apps using Flutter. 
+   📱Mobile Development: Crafting sleek and high-performing apps using Flutter. 
 
-🧑‍💻 Backend Development: Building reliable and scalable backends for seamless user experiences.
+   🧑‍💻 Backend Development: Building reliable and scalable backends for seamless user experiences.
 
-🎨 UI/UX Design: Designing user-centered interfaces that are not only functional but also delightful.
+   🎨 UI/UX Design: Designing user-centered interfaces that are not only functional but also delightful.
 </p>
 
 ###
