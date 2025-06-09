@@ -23,7 +23,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,nodejs,expressjs,mongodb,mysql,postgresql,firebase,supabase,react,next,git,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,javascript,typescript,nodejs,expressjs,mongodb,mysql,postgresql,firebase,supabase,react,next,tailwind,git,figma&theme=dark" />
   </a>
  
 </div>
