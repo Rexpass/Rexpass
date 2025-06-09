@@ -6,8 +6,6 @@
  
 💻 I specialize in Mobile Development, Backend Development, and UI/UX Design
 
-🛠️ Tech stack: Flutter, Node.js, Firebase, MongoDB, Figma & more
-
 🚀 Building impactful digital products with smooth user experiences
 
 📈 Always learning. Always building.
