@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,python,go,js,ts,nodejs,expressjs,nestjs,mongodb,mysql,firebase,supabase,react,next,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,c++,python,go,js,ts,nodejs,expressjs,nestjs,mongodb,mysql,firebase,supabase,react,next,docker&theme=dark" />
   </a>
  
 </div>
